@@ -4,10 +4,10 @@
 
 ### Instrucciones para ejecutar la aplicación
 
-Clone el proyecto a un repositorio local en su computadora. Acceda a la carpeta llamada **flex** que ha sido generada.
+Clone el proyecto a un repositorio local en su computadora. Acceda a la carpeta contenedora de la aplicación.
 
 ### `npm install`
-Ejecute esete comando ya estando dentro de la carpeta. Descargará todas las dependencias del proyecto.
+Ejecute este comando ya estando dentro de la carpeta. Descargará todas las dependencias del proyecto.
 
 ### `npx expo start`
 Con este comando se lanzará la aplicación. Una vez se muestre en consola que la aplicación está lista para poder ejecutarse.
